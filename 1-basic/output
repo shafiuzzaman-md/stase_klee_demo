@@ -1,0 +1,167 @@
+$ ./metalogin 
+═══════════════════════════════════════════════════════════
+   METALOGIN v0.7.3 - Avatar Authentication System
+   Black Sun Terminal #4471
+   *Legacy system - use at own risk*
+═══════════════════════════════════════════════════════════
+
+[BOOT] Initializing MetaLogin system...
+[LIBRARIAN] Maybe this will help(0x64e92361adb2)
+
+═══════════════════════════════════════════════════════════
+MENU:
+  1. Set Avatar
+  2. Clear Avatar
+  3. Set Start Location
+  4. Clear Start Location
+  5. Add Item to Inventory
+  6. Remove Item from Inventory
+  7. Show Inventory
+  8. Clear Inventory
+  9. Test Render
+  0. Exit
+═══════════════════════════════════════════════════════════
+Choice: 1
+Enter username: da5id_m
+Enter access code: LA_castle
+[ACCESS GRANTED] Black Sun member verified
+[SYSTEM] Avatar 'da5id_m' loaded successfully
+
+═══════════════════════════════════════════════════════════
+MENU:
+  1. Set Avatar
+  2. Clear Avatar
+  3. Set Start Location
+  4. Clear Start Location
+  5. Add Item to Inventory
+  6. Remove Item from Inventory
+  7. Show Inventory
+  8. Clear Inventory
+  9. Test Render
+  0. Exit
+═══════════════════════════════════════════════════════════
+Choice: 2
+Clear avatar
+
+[SYSTEM] Removing avatar 'da5id_m'
+[ERROR] No start_loc to clear
+
+═══════════════════════════════════════════════════════════
+MENU:
+  1. Set Avatar
+  2. Clear Avatar
+  3. Set Start Location
+  4. Clear Start Location
+  5. Add Item to Inventory
+  6. Remove Item from Inventory
+  7. Show Inventory
+  8. Clear Inventory
+  9. Test Render
+  0. Exit
+═══════════════════════════════════════════════════════════
+Choice: 3
+Enter Start Location Name: 127
+
+═══════════════════════════════════════════════════════════
+MENU:
+  1. Set Avatar
+  2. Clear Avatar
+  3. Set Start Location
+  4. Clear Start Location
+  5. Add Item to Inventory
+  6. Remove Item from Inventory
+  7. Show Inventory
+  8. Clear Inventory
+  9. Test Render
+  0. Exit
+═══════════════════════════════════════════════════════════
+Choice: 9
+
+╔═══════════════════════════════════════════════════╗
+║     METAVERSE AVATAR (Black Sun)                  ║
+╠═══════════════════════════════════════════════════╣
+║ LEET USER (can read hex):                         ║
+╠═══════════════════════════════════════════════════╣
+║ 40 B3 4C 4E E9 64 00 00 | 57 44 C3 5A 80 FF F9 6C ║ 
+╠═══════════════════════════════════════════════════╣
+║ Here's where you're headed:                       ║
+║   Port: 127                                       ║
+║   Coordinates -> X=0x5744C35A Y=0x80FFF96C        ║
+╚═══════════════════════════════════════════════════╝
+
+
+═══════════════════════════════════════════════════════════
+MENU:
+  1. Set Avatar
+  2. Clear Avatar
+  3. Set Start Location
+  4. Clear Start Location
+  5. Add Item to Inventory
+  6. Remove Item from Inventory
+  7. Show Inventory
+  8. Clear Inventory
+  9. Test Render
+  0. Exit
+═══════════════════════════════════════════════════════════
+Choice: 5
+Enter item name (max 15 chars): 
+Enter item number: 110953203806912
+[SYSTEM] Item added.
+
+═══════════════════════════════════════════════════════════
+MENU:
+  1. Set Avatar
+  2. Clear Avatar
+  3. Set Start Location
+  4. Clear Start Location
+  5. Add Item to Inventory
+  6. Remove Item from Inventory
+  7. Show Inventory
+  8. Clear Inventory
+  9. Test Render
+  0. Exit
+═══════════════════════════════════════════════════════════
+Choice: 8
+
+═══════════════════════════════════════════════════════════
+MENU:
+  1. Set Avatar
+  2. Clear Avatar
+  3. Set Start Location
+  4. Clear Start Location
+  5. Add Item to Inventory
+  6. Remove Item from Inventory
+  7. Show Inventory
+  8. Clear Inventory
+  9. Test Render
+  0. Exit
+═══════════════════════════════════════════════════════════
+Choice: 5
+Enter item name (max 15 chars): 
+Enter item number: 110952483761586
+[SYSTEM] Item added.
+
+═══════════════════════════════════════════════════════════
+MENU:
+  1. Set Avatar
+  2. Clear Avatar
+  3. Set Start Location
+  4. Clear Start Location
+  5. Add Item to Inventory
+  6. Remove Item from Inventory
+  7. Show Inventory
+  8. Clear Inventory
+  9. Test Render
+  0. Exit
+═══════════════════════════════════════════════════════════
+Choice: 9
++================================================================+
+|<>------------------------------------------------------------<>|
+|||                                                            |||
+|||                        TWENTY-FIVE                         |||
+|||                          MILLION                           |||
+|||                         HONG KONG                          |||
+|||                          DOLLARS                           |||
+|||                                                            |||
+|<>------------------------------------------------------------<>|
++================================================================+
