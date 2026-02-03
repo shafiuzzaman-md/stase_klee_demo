@@ -1,0 +1,46 @@
+# ---- KLEE outputs ----
+klee-out-*/
+klee-last
+*.err
+*.path
+*.log
+
+# ---- LLVM / build artifacts ----
+*.bc
+*.ll
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+*.obj
+*.d
+*.dSYM/
+*.pdb
+*.ilk
+
+# ---- Temporary / editor / OS ----
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ---- Debug / core dumps ----
+core
+core.*
+vgcore.*
+gdb.txt
+gdb.out
+
+# ---- KLEE / tooling caches ----
+/.cache/
+/tmp/
+/logs/
+*.tmp
+
+# ---- Optional: if you generate patched sources during demos ----
+*.bak
+*.orig
+*.rej

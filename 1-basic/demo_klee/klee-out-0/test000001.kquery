@@ -1,0 +1,6 @@
+array access_code[16] : w32 -> w8 = symbolic
+array username[16] : w32 -> w8 = symbolic
+(query [(Eq 0 (Read w8 1 username))
+         (Eq 0 (Read w8 0 access_code))
+         (Eq 106 (Read w8 0 username))]
+        false)
